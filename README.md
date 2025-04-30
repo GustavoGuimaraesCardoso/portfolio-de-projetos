@@ -2,7 +2,7 @@ README.md
 
 # Portfólio de Projetos - Gustavo Guimarães Cardoso ![Image](https://github.com/user-attachments/assets/856ecdbf-9260-4500-900e-0848f33d1f24)
 
-Este é meu portfólio pessoal criado com HTML e CSS. Ele foi desenvolvido como parte dos estudos para organizar e compartilhar meus projetos na área de tecnologia.
+Este é meu portfólio criado com HTML e CSS. Ele foi desenvolvido como parte dos estudos para organizar e compartilhar meus projetos na área de tecnologia.
 
 ## Acesse o site:
 
